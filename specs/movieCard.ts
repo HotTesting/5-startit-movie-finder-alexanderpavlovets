@@ -10,7 +10,7 @@ describe('Movie card ', async function(){
 
     })
 
-    it('should open appropriate "movie details" page, after click on "name" field'), async function(){
+    it('should open appropriate "movie details" page, after click on "name" field', async function(){
         
-    }
+    })
 })
