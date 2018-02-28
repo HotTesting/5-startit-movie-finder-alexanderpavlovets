@@ -76,3 +76,13 @@ Finished in 0.009 seconds
 * [Testing Out Protractor Interactively](https://github.com/angular/protractor/blob/master/docs/debugging.md)
 * [log4js-node](https://log4js-node.github.io/log4js-node/)
 * [Selenium input actions](https://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/lib/input_exports_Actions.html)
+
+### Lesson 9 - Reporting: 
+* [Jasmine custom reporter docs](https://jasmine.github.io/tutorials/custom_reporter)
+* [Jasmine reporter 1](https://github.com/larrymyers/jasmine-reporters)
+* [Jasmine reporter 2](https://github.com/razvanz/jasmine2-reporter)
+* [Jasmine reporter 3](https://github.com/allure-framework/allure-jasmine)
+* [Report portal home page](http://reportportal.io/)
+* [Report portal Jasmine agent](https://github.com/reportportal/agent-js-jasmine)
+* [Allure demo report](https://ci.qameta.io/job/allure2/job/master/Demo_Report/index.html)
+* [Report with screenshot for failed test, by Xotabu4](https://github.com/Xotabu4/Protractor_examples/blob/master/examples/screenshot.js)
