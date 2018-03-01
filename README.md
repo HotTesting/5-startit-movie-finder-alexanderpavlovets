@@ -28,6 +28,8 @@ Finished in 0.009 seconds
 * [Protractor main page](http://www.protractortest.org/#/)
 * [Protractor API](http://www.protractortest.org/#/api)
 * [Node.js official docs](https://nodejs.org/en/docs/)
+* [w3schools JS tutorial](https://www.w3schools.com/js/)
+* [MDN Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 
 ### Lesson 2 - Locators:
 * [CSS Selectors](http://www.w3schools.com/cssref/css_selectors.asp)
@@ -51,6 +53,7 @@ Finished in 0.009 seconds
 * [Travis CI main page](https://travis-ci.org/)
 
 ### Lesson 5 - Waits, ExpectedConditions:
+* [browser.wait protractor API](http://www.protractortest.org/#/api?view=webdriver.WebDriver.prototype.wait)
 * [Expected Conditions](http://www.protractortest.org/#/api?view=ProtractorExpectedConditions)
 
 ### Lesson 6 - OOP:
@@ -77,7 +80,12 @@ Finished in 0.009 seconds
 * [log4js-node](https://log4js-node.github.io/log4js-node/)
 * [Selenium input actions](https://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/lib/input_exports_Actions.html)
 
-### Lesson 9 - Reporting: 
+### Lesson 9 - Own JS code inside Angular: 
+* [browser.executeScript protractor API](http://www.protractortest.org/#/api?view=webdriver.WebDriver.prototype.executeScript)
+* [Document object API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+* [Window object API](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+
+### Lesson 10 - Reporting: 
 * [Jasmine custom reporter docs](https://jasmine.github.io/tutorials/custom_reporter)
 * [Jasmine reporter 1](https://github.com/larrymyers/jasmine-reporters)
 * [Jasmine reporter 2](https://github.com/razvanz/jasmine2-reporter)
